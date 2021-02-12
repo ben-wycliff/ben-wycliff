@@ -8,10 +8,6 @@
 
 ### GitHub Statistics
 
-
-<a href="https://github.com/ben-wycliff/ben-wycliff">
-  <img style="width: 30vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-wycliff&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/ben-wycliff/ben-wycliff">
   <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=ben-wycliff&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a>
