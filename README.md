@@ -3,7 +3,7 @@
 *ben12wycliff@gmail.com \| benclifg@gmail.com*
 
 <!--     <img src="image1.jpg" style="width:100vw; height:40vh; object-fit:cover; border-radius: 20px"> -->
- I am a computer engineer from Kampala Uganda, currently working in the fields of data science and software development. I have a lot of passion for building things that matter and making the world a better place.
+ I am a computer engineer from Kampala Uganda, currently working as a Machine Learning engineer. I have a lot of passion for building things that matter and making the world a better place.
 
 
 ### GitHub Statistics
@@ -11,34 +11,16 @@
 <a href="https://github.com/ben-wycliff/ben-wycliff">
   <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=ben-wycliff&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a>
-<hr>
-<!-- &nbsp; &nbsp; -->
-<!-- <a>CV</a> | <a>Certificates</a> -->
-
-<!-- ### Stats
-<table>
-  <tr>
-    <td> :three: Internships Completed </td>
-    <td> :six: Projects Completed </td>
-    <td>  :four: Guided Projects  </td>
-    <td>  :two: Virtual Internships </td>
-  </tr>
-  <tr>
-    <td>  :eight: Golden Badges  </td>
-    <td>  :one::zero: Skills Verified </td>
-    <td>  :seven: Online Courses  </td>
-    <td>  :two::six: Github Repos </td>
-  </tr>
-</table> -->
+<hr />
 
 ### Skills And Techonologies
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
 <!-- <img src=""><br /> -->
-<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
+<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat"/><br/>
 
- <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
-
-
+ <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white" ><br />
+<hr />
 
 ### Contact Me
 |  <a href="https://github.com/ben-wycliff"><img src="ben.jpg" width="200"/></a> |
