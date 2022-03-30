@@ -23,7 +23,7 @@
 <hr />
 
 ### Contact Me
-|  <a href="https://github.com/ben-wycliff"><img src="ben.jpg" width="200"/></a> |
+|  <a href="https://github.com/ben-wycliff"></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+256 782862788*|
 |✉️ *ben12wycliff@gmail.com \| benclifg@gmail.com*|
